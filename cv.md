@@ -14,9 +14,9 @@
 ## Contacts
 
 
-* Location: [Warsaw, Poland]
-* GitHub: [danikblya] (https://github.com/danikblya)https://github.com/danikblya)
-* IG: [be.ha2py (https://www.instagram.com/be.ha2py/]
+* Location: Warsaw, Poland
+* GitHub: danikblya (https://github.com/danikblya)https://github.com/danikblya)
+* IG: be.ha2py (https://www.instagram.com/be.ha2py/
 
 ---
 
@@ -41,12 +41,13 @@ A front-end developer is responsible for creating and designing the user interfa
 
 
 * Vistula University
+(1st Year Bachelor)
 ---
 
 ## Languages
 
 
-* Belarusian: A2
+* Belarusian: A2-B1
 * Russian: native
 * English: B2
 ---
