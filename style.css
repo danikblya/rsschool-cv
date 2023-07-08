@@ -8,6 +8,7 @@ body
 {
     height: 1200px;
     width: 100%;
+    background-color: lightgray;
 }
 .header
 {
@@ -40,9 +41,8 @@ body
 .logo h1
 {
     color: white;
-    font-size: 21px;
+    font-size: 20px;
     text-decoration: underline;
-    bottom: 0px;
 }
 .main
 {
@@ -53,10 +53,89 @@ body
     background-color: black;
     margin-left: 305px;
     border-style: ridge;
+    position: relative;
 }
 .myface
 {
     width: 250px;
     height: 450px;
     margin-left: 80px;
+}
+.aboutme h1
+{
+    color: aliceblue;
+    position: absolute;
+    top: 60px;
+    right: 240px;
+    margin: 10px;
+}
+#style
+{
+    position: absolute;
+    top: 110px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 120px;
+}
+.aboutme p
+{
+    color: aliceblue;
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    width: 350px;
+}
+.skils h1
+{
+    color: aliceblue;
+    position: absolute;
+    top: 260px;
+    right: 300px;
+    margin: 10px;
+}
+.skils ul
+{
+    color: aliceblue;
+    position: absolute;
+    top: 325px;
+    right: 90px;
+    width: 350px;
+}
+#style_skils
+{
+    position: absolute;
+    top: 300px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 120px;
+}
+.education h1
+{
+    color: aliceblue;
+    position: absolute;
+    top: 420px;
+    right: 230px;
+    margin: 10px;
+}
+#style_education
+{
+    position: absolute;
+    top: 500px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 120px;
+}
+.education p
+{
+    color: aliceblue;
+    position: absolute;
+    top: 500px;
+    right: 100px;
+    width: 350px;
 }
