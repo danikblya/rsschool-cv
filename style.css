@@ -4,6 +4,11 @@
     text-decoration: none;
     list-style: none;
 }
+body
+{
+    height: 1200px;
+    width: 100%;
+}
 .header
 {
     width: 100%;
@@ -21,6 +26,37 @@
 }
 .name
 {
-    font-size: 80px;
+    font-size: 70px;
     text-align: center;
+    text-decoration: underline;
+    vertical-align: middle;
+}
+.logo
+{
+    height: 100%;
+    display: table;
+    float: right;
+}
+.logo h1
+{
+    color: white;
+    font-size: 21px;
+    text-decoration: underline;
+    bottom: 0px;
+}
+.main
+{
+    width: 60%;
+    height: 920px;
+    margin-top: 10px;
+    display: block;
+    background-color: black;
+    margin-left: 305px;
+    border-style: ridge;
+}
+.myface
+{
+    width: 250px;
+    height: 450px;
+    margin-left: 80px;
 }
