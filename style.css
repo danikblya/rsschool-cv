@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    text-decoration: none;
     list-style: none;
 }
 body
@@ -43,6 +42,8 @@ body
     color: white;
     font-size: 20px;
     text-decoration: underline;
+    margin-top: 55px;
+    margin-right: 7px;
 }
 .main
 {
@@ -124,18 +125,74 @@ body
 #style_education
 {
     position: absolute;
-    top: 500px;
+    top: 480px;
     right: 470px;
     display: block;
     background-color: aliceblue;
     width: 5px;
-    height: 120px;
+    height: 20px;
 }
 .education p
 {
     color: aliceblue;
     position: absolute;
-    top: 500px;
+    top: 480px;
     right: 100px;
     width: 350px;
+}
+.languages
+{
+    color: aliceblue;
+}
+.languages h1
+{
+    color: aliceblue;
+    position: absolute;
+    top: 420px;
+    left: 70px;
+    margin: 10px;
+}
+.languages ul
+{
+    color: aliceblue;
+    position: absolute;
+    width: 350px;
+    top: 480px;
+    left: 80px;
+}
+#style_languages
+{
+    position: absolute;
+    top: 465px;
+    left: 40px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 80px;
+}
+/*---------------footer------------*/
+footer
+{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:120px;
+   width:100%;
+background-color: black;
+}
+footer h1
+{
+    color: aliceblue;
+    font-size: 15px;
+    position: absolute;
+}
+.year
+{
+    bottom: 60px;
+    left: 450px;
+}
+.id
+{
+    bottom: 60px;
+    left: 900px;
 }
