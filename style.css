@@ -1,0 +1,219 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body
+{
+    height: 1200px;
+    width: 100%;
+    background-color: lightgray;
+}
+.header
+{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: black;
+}
+.inner_header
+{
+    width: 1000px;
+    height: 100%;
+    display: block;
+    margin: 0 auto;
+    background-color: azure;
+}
+.name
+{
+    font-size: 70px;
+    text-align: center;
+    text-decoration: underline;
+    vertical-align: middle;
+}
+.logo
+{
+    height: 100%;
+    display: table;
+    float: right;
+}
+.logo h1
+{
+    color: white;
+    font-size: 20px;
+    text-decoration: underline;
+    margin-top: 55px;
+    margin-right: 7px;
+}
+.main
+{
+    width: 60%;
+    height: 920px;
+    margin-top: 10px;
+    display: block;
+    background-color: black;
+    margin-left: 305px;
+    border-style: ridge;
+    position: relative;
+}
+.myface
+{
+    width: 250px;
+    height: 450px;
+    margin-left: 80px;
+}
+.aboutme h1
+{
+    color: aliceblue;
+    position: absolute;
+    top: 60px;
+    right: 240px;
+    margin: 10px;
+}
+#style
+{
+    position: absolute;
+    top: 110px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 120px;
+}
+.aboutme p
+{
+    color: aliceblue;
+    position: absolute;
+    top: 120px;
+    right: 100px;
+    width: 350px;
+}
+.skils
+{
+    color: aliceblue;
+}
+.skils h1
+{
+    position: absolute;
+    top: 260px;
+    right: 300px;
+    margin: 10px;
+}
+.skils ul
+{
+    position: absolute;
+    top: 325px;
+    right: 90px;
+    width: 350px;
+}
+#style_skils
+{
+    position: absolute;
+    top: 300px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 120px;
+}
+.education
+{
+    color: aliceblue;
+}
+.education h1
+{
+    position: absolute;
+    top: 420px;
+    right: 230px;
+    margin: 10px;
+}
+#style_education
+{
+    position: absolute;
+    top: 480px;
+    right: 470px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 20px;
+}
+.education p
+{
+    position: absolute;
+    top: 480px;
+    right: 100px;
+    width: 350px;
+}
+.languages
+{
+    color: aliceblue;
+}
+.languages h1
+{
+    position: absolute;
+    top: 420px;
+    left: 70px;
+    margin: 10px;
+}
+.languages ul
+{
+    position: absolute;
+    width: 350px;
+    top: 480px;
+    left: 80px;
+}
+#style_languages
+{
+    position: absolute;
+    top: 465px;
+    left: 40px;
+    display: block;
+    background-color: aliceblue;
+    width: 5px;
+    height: 80px;
+}
+.future_projects
+{
+    color: aliceblue;
+}
+.future_projects h1
+{
+    color: aliceblue;
+    position: absolute;
+    bottom: 290px;
+    left: 300px;
+    margin: 10px;
+}
+.future_projects ul
+{
+    font-size: 25px;
+    position: absolute;
+    width: 600px;
+    bottom: 200px;
+    left: 80px;
+}
+footer
+{
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:120px;
+   width:100%;
+   background-color: black;
+}
+footer h1
+{
+    color: aliceblue;
+    font-size: 15px;
+    position: absolute;
+}
+.year
+{
+    bottom: 60px;
+    left: 450px;
+}
+.id
+{
+    bottom: 60px;
+    left: 900px;
+}
